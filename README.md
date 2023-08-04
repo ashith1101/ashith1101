@@ -13,10 +13,10 @@
 
 ### :woman_technologist: About Me :
 I am a Developer from India.
-- :telescope: I'm currently working on a few web projects.
-- 🌱: I am currently exploring the fields of machine learning and app development to expand my knowledge and skills in these exciting domains.
-- ⚡: Devoting consistent time to practising Data Structure to improve my problem-solving skills
--  📑: I write blogs on [https://hashnode.com/@ash1103]
+- :telescope:I'm currently working on a few web projects.
+- 🌱:Exploring the fields of machine learning and app development.
+- ⚡:Devoting consistent time to practising Data Structure to improve my problem-solving skills.
+-  📑:I write blogs on [https://hashnode.com/@ash1103]
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ashith-shetty-7a05b622b/))
 
 ---
