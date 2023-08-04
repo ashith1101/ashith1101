@@ -15,30 +15,31 @@
 
 ### :woman_technologist: About Me :
 I am a Developer from India.
-- :telescope: I'm a passionate technologist with interests in web development, app development, machine learning, and UI/UX design.
-
+- :telescope: I'm currently working on a few web projects.
+- 🌱: I am currently exploring the fields of machine learning and app development to expand my knowledge and skills in these exciting domains.
+- ⚡: Devoting consistent time to practicing Data Structure to improve my problem-solving skills
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ashith-shetty-7a05b622b/))
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotline" alt="Kotline" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotline" alt="Kotline" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicon/icons/arduino/arduino-original.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicon/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicon/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicon/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicon/icons/pandas/pandas-original.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>&nbsp;
   
 </div>
 
